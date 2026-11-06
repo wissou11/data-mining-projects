@@ -1,0 +1,9 @@
+numpy
+pandas<3
+scikit-learn
+xgboost
+tensorflow
+matplotlib
+geopandas
+pyproj
+jupyter

@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.DS_Store
+
+# Maps written when the notebooks run
+carte_*.png
